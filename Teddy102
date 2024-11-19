@@ -1,0 +1,77 @@
+@@ -1,16 +1,16 @@
+
+1-
+
+// config.js
+
+1+
+
+// TEDDY-TECH 
+
+22
+
+const fs = require("fs");
+
+33
+
+require("dotenv").config();
+
+44
+
+
+55
+
+const config = {
+
+66
+
+SESSION_ID: process.env.SESSION_ID || "Teddy-hiibotni",
+
+7-
+
+PREFIX: process.env.PREFIX || '-',
+
+7+
+
+PREFIX: process.env.PREFIX || '.',
+
+88
+
+AUTO_READ_STATUS: process.env.AUTO_READ_STATUS !== undefined ? process.env.AUTO_READ_STATUS === 'true' : true, 
+
+99
+
+AUTO_DOWNLOAD: process.env.AUTO_DOWNLOAD !== undefined ? process.env.AUTO_DOWNLOAD === 'true' : false,
+
+1010
+
+AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES !== undefined ? process.env.AUTO_READ_MESSAGES === 'true' : false,
+
+1111
+
+AUTO_TYPING: process.env.AUTO_TYPING !== undefined ? process.env.AUTO_TYPING === 'true' : false,
+
+1212
+
+AUTO_RECORDING: process.env.AUTO_RECORDING !== undefined ? process.env.AUTO_RECORDING === 'true' : false,
+
+13-
+
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE !== undefined ? process.env.ALWAYS_ONLINE === 'true' : false,
+
+13+
+
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE !== undefined ? process.env.ALWAYS_ONLINE === 'true' : true,
+
+1414
+
+AUTO_REACT: process.env.AUTO_REACT !== undefined ? process.env.AUTO_REACT === 'true' : false,
+
+1515
+
+/*auto block only for 212 */
+
+1616
+
+AUTO_BLOCK: process.env.AUTO_BLOCK !== undefined ? process.env.AUTO_BLOCK === 'true' : true,
+
