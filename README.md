@@ -125,8 +125,4 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
-
-[![Gifted-Md](https://api.star-history.com/svg?repos=mouricedevs/gifted&type=Timeline)](#)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+𝐄𝐍𝐉𝐎𝐘 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐖𝐈𝐓𝐇 𝐏𝐇𝐀𝐍𝐓𝐀𝐒𝐓𝐈𝐂 𝐌𝐃😇
