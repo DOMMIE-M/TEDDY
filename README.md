@@ -1,5 +1,5 @@
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/0wyyul.jpg'/></a>
 <h1 align="center"> 𝐏𝐇𝐀𝐍𝐓𝐀𝐒𝐓𝐈𝐂 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
 - 𝑻𝒉𝒊𝒔 𝑩𝒐𝒕 𝒊𝒔 𝒔𝒂𝒇𝒆 𝒇𝒐𝒓 𝑯𝒆𝒓𝒐𝒌𝒖, 𝑱𝒖𝒔𝒕 𝒆𝒏𝒋𝒐𝒚 𝑼𝒔𝒊𝒏𝒈 𝒊𝒕.
@@ -14,7 +14,7 @@
 
 </details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/0wyyul.jpg'/></a>
 
   <p align="center">
 <a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
