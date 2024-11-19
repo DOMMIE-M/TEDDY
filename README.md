@@ -12,15 +12,7 @@
 - 𝑶𝒗𝒆𝒓𝒂𝒍 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑰𝒎𝒑𝒓𝒐𝒗𝒆𝒎𝒆𝒏𝒕𝒔🤫.
 - Deprecated Buttoned Commands so everything is fine.
 
-</details>
 
-<a><img src='https://files.catbox.moe/0wyyul.jpg'/></a>
-
-  <p align="center">
-<a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/mouricedevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mouricedevs?label=Followers&style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted?&style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mouricedevs/gifted?style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mouricedevs/gifted?label=Watching&style=social"></a>
